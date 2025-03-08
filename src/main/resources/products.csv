@@ -1,0 +1,201 @@
+id,name,description,price,category
+1,Laptop,High performance laptop,999.99,Electronics
+2,Smartphone,Latest model smartphone,699.99,Electronics
+3,Coffee Maker,Automatic coffee maker,79.99,Appliances
+4,Desk Chair,Ergonomic office chair,199.99,Furniture
+5,Backpack,Waterproof hiking backpack,49.99,Accessories
+6,Headphones,Noise cancelling headphones,149.99,Electronics
+7,Microwave,Compact microwave oven,129.99,Appliances
+8,Bookshelf,Modern wooden bookshelf,89.99,Furniture
+9,Sunglasses,Polarized sunglasses,39.99,Accessories
+10,Tablet,10 inch screen tablet,299.99,Electronics
+11,Smartwatch,Fitness tracking smartwatch,199.99,Electronics
+12,Blender,High speed blender,69.99,Appliances
+13,Office Desk,Spacious wooden desk,299.99,Furniture
+14,Travel Bag,Durable travel bag,59.99,Accessories
+15,TV,55 inch 4K smart TV,899.99,Electronics
+16,Air Fryer,Healthy air fryer,99.99,Appliances
+17,Dining Table,6-seater dining table,399.99,Furniture
+18,Wallet,Leather bi-fold wallet,29.99,Accessories
+19,Monitor,27 inch gaming monitor,349.99,Electronics
+20,Toaster,2-slice toaster,34.99,Appliances
+21,Sofa,3-seater fabric sofa,599.99,Furniture
+22,Watch,Stylish analog watch,149.99,Accessories
+23,Camera,DSLR camera,749.99,Electronics
+24,Vacuum Cleaner,Cordless vacuum cleaner,199.99,Appliances
+25,Bed Frame,Queen size bed frame,499.99,Furniture
+26,Belt,Premium leather belt,19.99,Accessories
+27,Printer,All-in-one printer,169.99,Electronics
+28,Hair Dryer,Professional hair dryer,49.99,Appliances
+29,Bookshelf,Metal industrial bookshelf,129.99,Furniture
+30,Cap,Cotton baseball cap,14.99,Accessories
+31,Speakers,Bluetooth home speakers,199.99,Electronics
+32,Kettle,Electric kettle,29.99,Appliances
+33,Office Chair,Mesh ergonomic chair,179.99,Furniture
+34,Scarf,Woolen winter scarf,24.99,Accessories
+35,Router,WiFi 6 high-speed router,89.99,Electronics
+36,Iron,Steam iron,39.99,Appliances
+37,TV Stand,Modern TV stand,199.99,Furniture
+38,Gloves,Thermal winter gloves,19.99,Accessories
+39,Gaming Console,Next-gen gaming console,499.99,Electronics
+40,Rice Cooker,Multi-functional rice cooker,59.99,Appliances
+41,Side Table,Minimalist side table,89.99,Furniture
+42,Necklace,Silver pendant necklace,59.99,Accessories
+43,Projector,Full HD projector,299.99,Electronics
+44,Juicer,Slow juicer,99.99,Appliances
+45,Recliner Chair,Luxury recliner chair,649.99,Furniture
+46,Earrings,Gold-plated earrings,49.99,Accessories
+47,Power Bank,10000mAh power bank,29.99,Electronics
+48,Heater,Room heater,79.99,Appliances
+49,Coffee Table,Glass coffee table,199.99,Furniture
+50,Hat,Straw summer hat,19.99,Accessories
+51,Smart Lock,Keyless smart lock,149.99,Electronics
+52,Air Purifier,HEPA air purifier,159.99,Appliances
+53,Bookshelf,Classic oak bookshelf,179.99,Furniture
+54,Bracelet,Beaded bracelet,14.99,Accessories
+55,External Hard Drive,1TB external drive,79.99,Electronics
+56,Food Processor,Multi-purpose processor,129.99,Appliances
+57,Armchair,Velvet armchair,349.99,Furniture
+58,Socks,Cotton ankle socks (pack of 6),14.99,Accessories
+59,Smart Doorbell,WiFi video doorbell,99.99,Electronics
+60,Blow Dryer,Travel size blow dryer,39.99,Appliances
+61,Storage Cabinet,Multi-compartment cabinet,249.99,Furniture
+62,Tie,Silk formal tie,19.99,Accessories
+63,VR Headset,Wireless VR headset,399.99,Electronics
+64,Washing Machine,Front load washer,699.99,Appliances
+65,Accent Chair,Modern accent chair,229.99,Furniture
+66,Keychain,Leather keychain,9.99,Accessories
+67,Soundbar,5.1 surround soundbar,349.99,Electronics
+68,Deep Fryer,Stainless steel deep fryer,89.99,Appliances
+69,Bedside Table,2-drawer bedside table,139.99,Furniture
+70,Sunglasses,Designer polarized sunglasses,79.99,Accessories
+71,Laptop Stand,Adjustable laptop stand,39.99,Electronics
+72,Mini Fridge,Compact mini fridge,179.99,Appliances
+73,Bookshelf Ladder,Space-saving bookshelf,159.99,Furniture
+74,Backpack,Anti-theft laptop backpack,59.99,Accessories
+75,Drone,4K camera drone,599.99,Electronics
+76,Slow Cooker,6-quart slow cooker,69.99,Appliances
+77,Console Table,Narrow entryway table,199.99,Furniture
+78,Handbag,Fashion handbag,69.99,Accessories
+79,Digital Camera,Mirrorless camera,899.99,Electronics
+80,Food Dehydrator,5-tray dehydrator,119.99,Appliances
+81,Rocking Chair,Wooden rocking chair,249.99,Furniture
+82,Wallet,RFID-blocking wallet,29.99,Accessories
+83,Portable Speaker,Waterproof portable speaker,59.99,Electronics
+84,Popcorn Maker,Hot air popcorn maker,39.99,Appliances
+85,TV Console,Modern TV console,299.99,Furniture
+86,Belt,Canvas casual belt,14.99,Accessories
+87,Running Shoes,Breathable running shoes,79.99,Accessories
+88,Desk Lamp,Adjustable desk lamp,39.99,Furniture
+89,Smart Thermostat,WiFi-enabled thermostat,149.99,Electronics
+90,Pressure Cooker,6L stainless steel pressure cooker,99.99,Appliances
+91,Bar Stool,Set of 2 bar stools,159.99,Furniture
+92,Leather Wallet,Genuine leather wallet,49.99,Accessories
+93,Wireless Mouse,Ergonomic wireless mouse,29.99,Electronics
+94,Electric Grill,Indoor smokeless grill,89.99,Appliances
+95,Dining Chairs,Set of 4 dining chairs,299.99,Furniture
+96,Backpack,School backpack with laptop compartment,39.99,Accessories
+97,Smart Light Bulb,Color-changing smart bulb,19.99,Electronics
+98,Stand Mixer,Heavy-duty stand mixer,229.99,Appliances
+99,Shoe Rack,5-tier shoe rack,69.99,Furniture
+100,Belt,Reversible formal belt,29.99,Accessories
+101,Smart Plug,App-controlled smart plug,14.99,Electronics
+102,Clothes Steamer,Portable garment steamer,49.99,Appliances
+103,Coffee Table,Industrial coffee table,199.99,Furniture
+104,Beanie,Warm knit beanie,14.99,Accessories
+105,Webcam,Full HD webcam,69.99,Electronics
+106,Air Conditioner,Portable AC unit,349.99,Appliances
+107,Dresser,6-drawer wooden dresser,399.99,Furniture
+108,Watch,Digital sports watch,59.99,Accessories
+109,Wireless Charger,Fast wireless charger,24.99,Electronics
+110,Food Processor,Compact food processor,79.99,Appliances
+111,Bed Frame,King size bed frame,549.99,Furniture
+112,Sunglasses,UV protection sunglasses,34.99,Accessories
+113,External SSD,500GB external SSD,99.99,Electronics
+114,Toaster Oven,Convection toaster oven,119.99,Appliances
+115,Console Table,Industrial console table,189.99,Furniture
+116,Cap,Camouflage baseball cap,17.99,Accessories
+117,Streaming Stick,4K streaming stick,49.99,Electronics
+118,Blender,Glass jar blender,89.99,Appliances
+119,Nightstand,Modern nightstand with drawer,119.99,Furniture
+120,Bracelet,Leather charm bracelet,19.99,Accessories
+121,Wireless Earbuds,Noise-cancelling earbuds,129.99,Electronics
+122,Espresso Machine,Barista style espresso machine,299.99,Appliances
+123,TV Stand,Mid-century TV stand,259.99,Furniture
+124,Gloves,Touchscreen compatible gloves,24.99,Accessories
+125,Smartwatch,Advanced fitness tracker,229.99,Electronics
+126,Electric Kettle,Temperature control kettle,59.99,Appliances
+127,Bookshelf,3-tier rustic bookshelf,109.99,Furniture
+128,Scarf,Cashmere winter scarf,49.99,Accessories
+129,Action Camera,4K waterproof action camera,199.99,Electronics
+130,Ice Cream Maker,Automatic ice cream maker,89.99,Appliances
+131,Recliner Chair,Faux leather recliner,549.99,Furniture
+132,Hat,Fedora hat,24.99,Accessories
+133,Smart Door Lock,Fingerprint smart lock,199.99,Electronics
+134,Humidifier,Ultrasonic humidifier,69.99,Appliances
+135,Accent Chair,Fabric accent chair,279.99,Furniture
+136,Keychain,Metal engraved keychain,9.99,Accessories
+137,Digital Frame,WiFi digital photo frame,119.99,Electronics
+138,Slow Cooker,Programmable slow cooker,59.99,Appliances
+139,Vanity Table,Makeup vanity table,329.99,Furniture
+140,Belt,Braided casual belt,22.99,Accessories
+141,VR Headset,Standalone VR headset,349.99,Electronics
+142,Heater,Ceramic space heater,79.99,Appliances
+143,Bookshelf,Industrial ladder bookshelf,149.99,Furniture
+144,Earrings,Crystal drop earrings,39.99,Accessories
+145,Security Camera,Outdoor security camera,129.99,Electronics
+146,Waffle Maker,Non-stick waffle maker,39.99,Appliances
+147,Bedside Table,Rustic bedside table,139.99,Furniture
+148,Socks,Wool hiking socks,19.99,Accessories
+149,Portable Power Station,500W portable power station,499.99,Electronics
+150,Food Dehydrator,Stainless steel dehydrator,149.99,Appliances
+151,Bar Cart,2-tier rolling bar cart,199.99,Furniture
+152,Wallet,Minimalist slim wallet,29.99,Accessories
+153,Smart Scale,Bluetooth body scale,59.99,Electronics
+154,Popcorn Maker,Retro popcorn machine,49.99,Appliances
+155,Dining Bench,Wood dining bench,179.99,Furniture
+156,Necklace,Pearl pendant necklace,69.99,Accessories
+157,Dash Cam,HD night vision dash cam,99.99,Electronics
+158,Rice Cooker,Digital rice cooker,79.99,Appliances
+159,Office Chair,Leather executive chair,299.99,Furniture
+160,Backpack,Tactical backpack,79.99,Accessories
+161,Drone,Mini drone with camera,149.99,Electronics
+162,Electric Skillet,Large non-stick skillet,59.99,Appliances
+163,Coffee Table,Round glass coffee table,239.99,Furniture
+164,Bracelet,Silver cuff bracelet,34.99,Accessories
+165,Smart Plug,Energy monitoring smart plug,17.99,Electronics
+166,Hair Dryer,Ionic professional dryer,59.99,Appliances
+167,Bookshelf,Adjustable corner bookshelf,99.99,Furniture
+168,Watch,Chronograph watch,189.99,Accessories
+169,Tablet,8 inch compact tablet,199.99,Electronics
+170,Juicer,Cold press juicer,139.99,Appliances
+171,Console Table,Glass top console table,229.99,Furniture
+172,Hat,Bucket hat,19.99,Accessories
+173,Wireless Speaker,Portable bass speaker,79.99,Electronics
+174,Vacuum Cleaner,Robot vacuum cleaner,349.99,Appliances
+175,Shoe Rack,Bamboo shoe rack,59.99,Furniture
+176,Scarf,Fleece winter scarf,19.99,Accessories
+177,Camera,Point and shoot camera,199.99,Electronics
+178,Deep Fryer,Digital deep fryer,109.99,Appliances
+179,Armchair,Tufted armchair,319.99,Furniture
+180,Sunglasses,Aviator sunglasses,59.99,Accessories
+181,Smart Light,Motion sensor smart light,24.99,Electronics
+182,Blender,Portable blender,39.99,Appliances
+183,Storage Cabinet,Bathroom storage cabinet,199.99,Furniture
+184,Belt,Suede dress belt,29.99,Accessories
+185,Streaming Box,Smart TV box,79.99,Electronics
+186,Air Purifier,HEPA filter purifier,139.99,Appliances
+187,TV Stand,Wood and metal TV stand,249.99,Furniture
+188,Bracelet,Gold bangle bracelet,49.99,Accessories
+189,Smartwatch,GPS running watch,199.99,Electronics
+190,Kettle,Glass electric kettle,39.99,Appliances
+191,Nightstand,2-drawer nightstand,149.99,Furniture
+192,Necklace,Diamond cut necklace,99.99,Accessories
+193,Wireless Keyboard,Slim wireless keyboard,49.99,Electronics
+194,Microwave,Retro style microwave,149.99,Appliances
+195,Bed Frame,Metal platform bed,299.99,Furniture
+196,Wallet,Travel RFID wallet,39.99,Accessories
+197,Headphones,Gaming headset,99.99,Electronics
+198,Toaster,4-slice toaster,59.99,Appliances
+199,Bookshelf,Wall-mounted bookshelf,79.99,Furniture
+200,Backpack,Leather travel backpack,99.99,Accessories
